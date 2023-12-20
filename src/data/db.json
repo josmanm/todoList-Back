@@ -19,11 +19,6 @@
             "id": 4,
             "task": "Task 4",
             "status": false
-        },
-        {
-            "id": 5,
-            "task": "Task 5",
-            "status": true
         }
     ]
 }
